@@ -9,7 +9,7 @@ type song = {
   guide?: string
 }
 
-export default function SongPage() {
+export default function SongList() {
 
 
   const [songs, setSongs] = useState([])
@@ -57,16 +57,17 @@ export default function SongPage() {
   return (
     <div className="min-h-screen bg-gray-900 text-white p-8">
       <div className="max-w-4xl mx-auto">
+
         <h1 className="text-4xl font-bold text-center mb-8 text-blue-400">
            Songs ({songs.length})
         </h1>
 
         {songs.length === 0 ? (
           <div className="text-center text-gray-400">
-            No songs found. Add some songs to get started!
+            No songs found.
           </div>
         ) : (
-          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-4 md:grid-cols-1 lg:grid-cols-3">
             {songs.map(song => (
               <div 
                 key={song._id} 

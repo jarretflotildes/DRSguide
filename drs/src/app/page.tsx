@@ -1,13 +1,12 @@
-import SongList from "@/app/tests.js"
 import Navbar from "@/app/(components)/Navbar";
-import SongPage from "@/app/(components)/SongPage";
+import SongList from "@/app/(components)/SongPage";
 
 export default function Home() {
   return (
     <div>
       <Navbar/>
       <main>
-        <SongPage/>
+        <SongList/>
       </main>
       Footer
     </div>
