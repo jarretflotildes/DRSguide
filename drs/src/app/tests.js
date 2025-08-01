@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 
-export default function SongList() {
+export default function addSong() {
   const [song, setSong] = useState([])
   const [name, setName] = useState('')
   const [description, setDescription] = useState('')

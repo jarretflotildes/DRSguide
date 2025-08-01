@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from 'react'
+import Image from 'next/image';
 
 type song = {
   _id: string
@@ -53,12 +54,12 @@ export default function SongList() {
       </div>
     )
   }
+   
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white p-8">
+    <div className="min-h-screen bg-gray-900 p-5">
       <div className="max-w-4xl mx-auto">
-
-        <h1 className="text-4xl font-bold text-center mb-8 text-blue-400">
+        <h1 className="text-4xl font-bold text-center mb-8 text-white">
            Songs ({songs.length})
         </h1>
 
@@ -67,16 +68,23 @@ export default function SongList() {
             No songs found.
           </div>
         ) : (
-          <div className="grid gap-4 md:grid-cols-1 lg:grid-cols-3">
+          <div className="grid gap-0 md:grid-cols-1 lg:grid-cols-6">
             {songs.map(song => (
               <div 
                 key={song._id} 
-                className="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-blue-500 transition-colors"
+                className="border border-gray-700 hover:border-blue-600 transition-colors"
               >
-                <h2 className="text-xl font-semibold text-blue-300 mb-3">
+
+             <img 
+                src={ `/jackets/${encodeURIComponent(song.name)}.png`}
+                alt="Error 404"
+                className="border-black w-full object-fill"
+              />
+                {/**         <h2 className="text-xl text-white mb-3">
                   {song.name}
-                </h2>
-             </div>
+                </h2>   */}
+
+                    </div>
             ))}
           </div>
         )}
