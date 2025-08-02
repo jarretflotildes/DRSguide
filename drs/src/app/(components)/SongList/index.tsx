@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Image from 'next/image';
+import Link from "next/link"
 
 type song = {
   _id: string
@@ -11,7 +12,6 @@ type song = {
 }
 
 export default function SongList() {
-
 
   const [songs, setSongs] = useState([])
   const [loading, setLoading] = useState(true)
@@ -54,7 +54,6 @@ export default function SongList() {
       </div>
     )
   }
-   
 
   return (
     <div className="min-h-screen bg-gray-900 p-5">
@@ -70,8 +69,8 @@ export default function SongList() {
         ) : (
           <div className="grid gap-0 md:grid-cols-1 lg:grid-cols-6">
             {songs.map(song => (
-              <div 
-                key={song._id} 
+              <Link 
+                key={song._id} href={`/songs/${song.name}`}
                 className="border border-gray-700 hover:border-blue-600 transition-colors"
               >
 
@@ -80,11 +79,11 @@ export default function SongList() {
                 alt="Error 404"
                 className="border-black w-full object-fill"
               />
+
                 {/**         <h2 className="text-xl text-white mb-3">
                   {song.name}
                 </h2>   */}
-
-                    </div>
+                </Link>
             ))}
           </div>
         )}
