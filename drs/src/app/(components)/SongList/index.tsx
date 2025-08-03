@@ -1,12 +1,12 @@
 "use client"
 
 import { useState, useEffect } from 'react'
-import Image from 'next/image';
 import Link from "next/link"
 
 type song = {
   _id: string
-  name: string
+  name: string          //for picture
+  original_name: string //for text
   description: string
   guide?: string
 }
@@ -80,14 +80,17 @@ export default function SongList() {
                 className="border-black w-full object-fill"
               />
 
+                <h2 className="text-xl text-white mb-3">
+                  {song.original_name}
+                </h2>  
                 {/**         <h2 className="text-xl text-white mb-3">
-                  {song.name}
+                  {song.original_name}
                 </h2>   */}
                 </Link>
             ))}
           </div>
         )}
-        
+        {/**        
         <div className="text-center mt-8">
           <button 
             onClick={fetchSongs}
@@ -96,6 +99,8 @@ export default function SongList() {
             Refresh Songs
           </button>
         </div>
+         */} 
+
       </div>
     </div>
   )

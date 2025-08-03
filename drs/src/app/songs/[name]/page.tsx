@@ -8,6 +8,11 @@ import Navbar from '@/app/(components)/Navbar'
 type Song = {
   _id: string
   name: string
+  original_name:string
+  artist:string
+  album:string
+  bpm:string
+  length:string
   description: string
   guide?: string
 }
@@ -78,6 +83,7 @@ export default function SongPage() {
       </div>
     )
   }
+  // console.log(song);
 
   return (
     <div>
@@ -101,20 +107,22 @@ export default function SongPage() {
           {/* Description */}
           <div>
             <h1 className="text-4xl font-bold mb-4">{song.name}</h1>
-            
             <div className="mb-6">
-              <h2 className="text-xl font-semibold mb-2 text-blue-400">Description</h2>
               <p className="text-gray-300 leading-relaxed">
                 {song.description || 'No description available.'}
               </p>
             </div>
+                {song.artist}
+                {song.album}
+                {song.bpm}
+                {song.length}
 
             {/* Guide */}
             {song.guide && (
               <div className="mb-6">
                 <h2 className="text-xl font-semibold mb-2 text-blue-400">Guide</h2>
                 <div className="text-gray-300 leading-relaxed whitespace-pre-wrap">
-                  {song.guide}
+                  {song.guide || 'No guide available'}
                 </div>
               </div>
             )}

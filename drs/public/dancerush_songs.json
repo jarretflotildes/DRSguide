@@ -1,0 +1,3272 @@
+[
+  {
+    "name": "Sky Is The Limit",
+    "artist": "ぼくのりりっくのぼうよみ",
+    "album": "SKY's the limit/つきとさなぎ (2017)",
+    "bpm": 120,
+    "length": "1:56",
+    "guide": "Dance guide for SKY's the limit",
+    "original_name": "SKY's the limit"
+  },
+  {
+    "name": "ハッピーシンセサイザ",
+    "artist": "EasyPop",
+    "album": "EXIT TUNES PRESENTS Vocalonation feat. 初音ミク (2011)",
+    "bpm": 127,
+    "length": "2:05",
+    "guide": "Dance guide for ハッピーシンセサイザ",
+    "original_name": "ハッピーシンセサイザ"
+  },
+  {
+    "name": "Rip It Off Now Rip It Off",
+    "artist": "かめりあ feat. kradness",
+    "album": "Xroniàl Xéro (2020)",
+    "bpm": 135,
+    "length": "1:56",
+    "guide": "Dance guide for Rip It Off (Now) Rip It Off",
+    "original_name": "Rip It Off (Now) Rip It Off"
+  },
+  {
+    "name": "SOUVENIR",
+    "artist": "(BUMP OF CHICKEN)",
+    "album": "SOUVENIR (2022)",
+    "bpm": 158,
+    "length": "1:31",
+    "guide": "Dance guide for SOUVENIR",
+    "original_name": "SOUVENIR"
+  },
+  {
+    "name": "Death by Glamour _ 華麗なる死闘",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack (2015)",
+    "bpm": 148,
+    "length": "2:14",
+    "guide": "Dance guide for Death by Glamour / 華麗なる死闘",
+    "original_name": "Death by Glamour / 華麗なる死闘"
+  },
+  {
+    "name": "MEGALOVANIA",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack (2015)",
+    "bpm": 120,
+    "length": "2:01",
+    "guide": "Dance guide for MEGALOVANIA",
+    "original_name": "MEGALOVANIA"
+  },
+  {
+    "name": "Dummy _ 怒りのマネキン",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack (2015)",
+    "bpm": 125,
+    "length": "1:50",
+    "guide": "Dance guide for Dummy! / 怒りのマネキン！",
+    "original_name": "Dummy! / 怒りのマネキン！"
+  },
+  {
+    "name": "Spider Dance _ スパイダーダンス",
+    "artist": "Toby Fox",
+    "album": "UNDERTALE Soundtrack (2015)",
+    "bpm": 230,
+    "length": "1:46",
+    "guide": "Dance guide for Spider Dance / スパイダーダンス",
+    "original_name": "Spider Dance / スパイダーダンス"
+  },
+  {
+    "name": "CIAO",
+    "artist": "Merk & Kremont",
+    "album": "CIAO (2016)",
+    "bpm": 129,
+    "length": "1:56",
+    "guide": "Dance guide for CIAO",
+    "original_name": "CIAO"
+  },
+  {
+    "name": "ダウンスライドレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:22",
+    "guide": "Dance guide for ダウン＆スライドレッスン",
+    "original_name": "ダウン＆スライドレッスン"
+  },
+  {
+    "name": "ランニングマンレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:29",
+    "guide": "Dance guide for ランニングマンレッスン",
+    "original_name": "ランニングマンレッスン"
+  },
+  {
+    "name": "Tステップレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:45",
+    "guide": "Dance guide for Tステップレッスン",
+    "original_name": "Tステップレッスン"
+  },
+  {
+    "name": "ランニングマンレッスン応用編",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:30",
+    "guide": "Dance guide for ランニングマンレッスン応用編",
+    "original_name": "ランニングマンレッスン応用編"
+  },
+  {
+    "name": "Tステップレッスン応用編",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:30",
+    "guide": "Dance guide for Tステップレッスン応用編",
+    "original_name": "Tステップレッスン応用編"
+  },
+  {
+    "name": "ランニングマンTステップレッスン複合編",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:47",
+    "guide": "Dance guide for ランニングマン＆Tステップレッスン複合編",
+    "original_name": "ランニングマン＆Tステップレッスン複合編"
+  },
+  {
+    "name": "ランニングマンTステップレッスン複合編",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:30",
+    "guide": "Dance guide for ランニングマン＆Tステップレッスン複合編2",
+    "original_name": "ランニングマン＆Tステップレッスン複合編2"
+  },
+  {
+    "name": "ランニングマンレッスン 炎の特訓編",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:47",
+    "guide": "Dance guide for ランニングマンレッスン 炎の特訓編",
+    "original_name": "ランニングマンレッスン 炎の特訓編"
+  },
+  {
+    "name": "Tステップレッスン 炎の特訓編",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:47",
+    "guide": "Dance guide for Tステップレッスン 炎の特訓編",
+    "original_name": "Tステップレッスン 炎の特訓編"
+  },
+  {
+    "name": "チャールストンレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:38",
+    "guide": "Dance guide for チャールストンレッスン",
+    "original_name": "チャールストンレッスン"
+  },
+  {
+    "name": "スポンジボブレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:38",
+    "guide": "Dance guide for スポンジボブレッスン",
+    "original_name": "スポンジボブレッスン"
+  },
+  {
+    "name": "ステップバリエーション1",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:55",
+    "guide": "Dance guide for ステップバリエーション1",
+    "original_name": "ステップバリエーション1"
+  },
+  {
+    "name": "ステップバリエーション2",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "2:23",
+    "guide": "Dance guide for ステップバリエーション2",
+    "original_name": "ステップバリエーション2"
+  },
+  {
+    "name": "クラブステップレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:47",
+    "guide": "Dance guide for クラブステップレッスン",
+    "original_name": "クラブステップレッスン"
+  },
+  {
+    "name": "リバースランニングマンレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "2:05",
+    "guide": "Dance guide for リバースランニングマンレッスン",
+    "original_name": "リバースランニングマンレッスン"
+  },
+  {
+    "name": "リバースTステップレッスン",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:47",
+    "guide": "Dance guide for リバースTステップレッスン",
+    "original_name": "リバースTステップレッスン"
+  },
+  {
+    "name": "ステップバリエーション3",
+    "artist": "",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "2:15",
+    "guide": "Dance guide for ステップバリエーション3",
+    "original_name": "ステップバリエーション3"
+  },
+  {
+    "name": "Small Steps",
+    "artist": "かめりあ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:34",
+    "guide": "Dance guide for Small Steps",
+    "original_name": "Small Steps"
+  },
+  {
+    "name": "Awakening Wings",
+    "artist": "伊達朱里紗",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 190,
+    "length": "1:32",
+    "guide": "Dance guide for Awakening Wings",
+    "original_name": "Awakening Wings"
+  },
+  {
+    "name": "50th Memorial Songs -Beginning Story-",
+    "artist": "BEMANI Sound Team",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "2:08",
+    "guide": "Dance guide for 50th Memorial Songs -Beginning Story-",
+    "original_name": "50th Memorial Songs -Beginning Story-"
+  },
+  {
+    "name": "50th Memorial Songs -二人の時 under the cherry blossoms-",
+    "artist": "BEMANI Sound Team",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "2:05",
+    "guide": "Dance guide for 50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+    "original_name": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-"
+  },
+  {
+    "name": "50th Memorial Songs -Flagship medley-",
+    "artist": "BEMANI Sound Team",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      135,
+      175
+    ],
+    "length": "1:52",
+    "guide": "Dance guide for 50th Memorial Songs -Flagship medley-",
+    "original_name": "50th Memorial Songs -Flagship medley-"
+  },
+  {
+    "name": "50th Memorial Songs -The BEMANI History-",
+    "artist": "BEMANI Sound Team",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 136,
+    "length": "1:58",
+    "guide": "Dance guide for 50th Memorial Songs -The BEMANI History-",
+    "original_name": "50th Memorial Songs -The BEMANI History-"
+  },
+  {
+    "name": "smooooch",
+    "artist": "kors k",
+    "album": "BEMANI 8bit collection.",
+    "bpm": 177,
+    "length": "1:55",
+    "guide": "Dance guide for smooooch・∀・",
+    "original_name": "smooooch・∀・"
+  },
+  {
+    "name": "Saturday Night Love",
+    "artist": "Sota feat. Brenda V.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:37",
+    "guide": "Dance guide for Saturday Night Love",
+    "original_name": "Saturday Night Love"
+  },
+  {
+    "name": "LUV CAN SAVE U",
+    "artist": "HIDEKI NAGANUMA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "2:07",
+    "guide": "Dance guide for LUV CAN SAVE U",
+    "original_name": "LUV CAN SAVE U"
+  },
+  {
+    "name": "SigSig",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 179,
+    "length": "2:05",
+    "guide": "Dance guide for SigSig",
+    "original_name": "SigSig"
+  },
+  {
+    "name": "Special One",
+    "artist": "kors k feat. Suzuyo Miyamoto",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:37",
+    "guide": "Dance guide for Special One",
+    "original_name": "Special One"
+  },
+  {
+    "name": "Gymnopedie-kors k mix-",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:34",
+    "guide": "Dance guide for Gymnopedie-kors k mix-",
+    "original_name": "Gymnopedie-kors k mix-"
+  },
+  {
+    "name": "凛として咲く花の如く",
+    "artist": "紅色リトマス",
+    "album": "booklets credit guitar work for 凛として咲く花の如く.",
+    "bpm": 163,
+    "length": "2:06",
+    "guide": "Dance guide for 凛として咲く花の如く",
+    "original_name": "凛として咲く花の如く"
+  },
+  {
+    "name": "murmur twins",
+    "artist": "yu_tokiwa feat. djw",
+    "album": "version of murmur twins, which has the above variations for its Normal, Hard/Expert, and Real difficulties, respectively.",
+    "bpm": 174,
+    "length": "2:03",
+    "guide": "Dance guide for murmur twins",
+    "original_name": "murmur twins"
+  },
+  {
+    "name": "Din Don Dan",
+    "artist": "Ryu☆ feat. Mayumi Morinaga",
+    "album": "of the same name, please see Din Don Dan (album).",
+    "bpm": 140,
+    "length": "1:43",
+    "guide": "Dance guide for Din Don Dan",
+    "original_name": "Din Don Dan"
+  },
+  {
+    "name": "アルストロメリア walk with you remix",
+    "artist": "TAG",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 148,
+    "length": "1:59",
+    "guide": "Dance guide for アルストロメリア (walk with you remix)",
+    "original_name": "アルストロメリア (walk with you remix)"
+  },
+  {
+    "name": "エコ爺",
+    "artist": "Y&Co.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "2:04",
+    "guide": "Dance guide for エコ爺",
+    "original_name": "エコ爺"
+  },
+  {
+    "name": "さよならトリップ",
+    "artist": "Dor feat. mir",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "1:49",
+    "guide": "Dance guide for さよならトリップ",
+    "original_name": "さよならトリップ"
+  },
+  {
+    "name": "Follow Tomorrow",
+    "artist": "HHH feat. MM feat. ST",
+    "album": "BEMANI曲をバンドで演奏してみた.",
+    "bpm": 140,
+    "length": "1:53",
+    "guide": "Dance guide for Follow Tomorrow",
+    "original_name": "Follow Tomorrow"
+  },
+  {
+    "name": "HYPERDRIVE",
+    "artist": "Moe Shop",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:46",
+    "guide": "Dance guide for HYPERDRIVE",
+    "original_name": "HYPERDRIVE"
+  },
+  {
+    "name": "ピアノ体操第一",
+    "artist": "ノスタルジア演奏協会♪",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      144,
+      156
+    ],
+    "length": "2:22",
+    "guide": "Dance guide for ピアノ体操第一",
+    "original_name": "ピアノ体操第一"
+  },
+  {
+    "name": "1-2-3 Jump",
+    "artist": "まろん feat. Renko",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:56",
+    "guide": "Dance guide for 1-2-3 Jump!",
+    "original_name": "1-2-3 Jump!"
+  },
+  {
+    "name": "野球の遊び方 そしてその歴史 決定版",
+    "artist": "あさき大監督",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 141,
+    "length": "1:51",
+    "guide": "Dance guide for 野球の遊び方 そしてその歴史 ～決定版～",
+    "original_name": "野球の遊び方 そしてその歴史 ～決定版～"
+  },
+  {
+    "name": "Mermaid girl",
+    "artist": "Cream puff",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "2:06",
+    "guide": "Dance guide for Mermaid girl",
+    "original_name": "Mermaid girl"
+  },
+  {
+    "name": "O JIYA",
+    "artist": "ASMAT & emi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 151,
+    "length": "1:34",
+    "guide": "Dance guide for O JIYA",
+    "original_name": "O JIYA"
+  },
+  {
+    "name": "Keiko my love",
+    "artist": "Jimmy Weckl",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:38",
+    "guide": "Dance guide for Keiko my love",
+    "original_name": "Keiko my love"
+  },
+  {
+    "name": "DAWN OF FALCON",
+    "artist": "L.E.D.-G",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 155,
+    "length": "1:46",
+    "guide": "Dance guide for DAWN OF FALCON",
+    "original_name": "DAWN OF FALCON"
+  },
+  {
+    "name": "Dont Stop",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 129,
+    "length": "1:53",
+    "guide": "Dance guide for Don't Stop!!",
+    "original_name": "Don't Stop!!"
+  },
+  {
+    "name": "DOWNER  UPPER",
+    "artist": "DJ TOTTO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:32",
+    "guide": "Dance guide for DOWNER & UPPER",
+    "original_name": "DOWNER & UPPER"
+  },
+  {
+    "name": "Gimme a Big Beat",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "2:06",
+    "guide": "Dance guide for Gimme a Big Beat",
+    "original_name": "Gimme a Big Beat"
+  },
+  {
+    "name": "Oppress",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:06",
+    "guide": "Dance guide for Oppress",
+    "original_name": "Oppress"
+  },
+  {
+    "name": "Sakura Sunrise",
+    "artist": "Ryu☆",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 181,
+    "length": "1:35",
+    "guide": "Dance guide for Sakura Sunrise",
+    "original_name": "Sakura Sunrise"
+  },
+  {
+    "name": "Wicked",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:44",
+    "guide": "Dance guide for Wicked",
+    "original_name": "Wicked"
+  },
+  {
+    "name": "Robot Loves Smoked-Salmon",
+    "artist": "The Foie-Gras of The Sea",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:39",
+    "guide": "Dance guide for Robot Loves Smoked-Salmon",
+    "original_name": "Robot Loves Smoked-Salmon"
+  },
+  {
+    "name": "NewAige",
+    "artist": "HuΣeR",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:55",
+    "guide": "Dance guide for NewAige",
+    "original_name": "NewAige"
+  },
+  {
+    "name": "Saturday Night Love -Phunk Disco Mix-",
+    "artist": "Sota Fujimori",
+    "album": "and then made playable in any BEMANI game, with almost ten years between the release of SYNTHESIZED and its addition to DANCERUSH STARDOM.",
+    "bpm": 135,
+    "length": "1:52",
+    "guide": "Dance guide for Saturday Night Love -Phunk Disco Mix-",
+    "original_name": "Saturday Night Love -Phunk Disco Mix-"
+  },
+  {
+    "name": "Nightlife",
+    "artist": "Moe Shop",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:42",
+    "guide": "Dance guide for Nightlife",
+    "original_name": "Nightlife"
+  },
+  {
+    "name": "As I go",
+    "artist": "Akira Complex",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "1:50",
+    "guide": "Dance guide for As I go",
+    "original_name": "As I go"
+  },
+  {
+    "name": "Auto Click",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 124,
+    "length": "1:55",
+    "guide": "Dance guide for Auto Click",
+    "original_name": "Auto Click"
+  },
+  {
+    "name": "Chaos of Drum",
+    "artist": "KO3",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:03",
+    "guide": "Dance guide for Chaos of Drum",
+    "original_name": "Chaos of Drum"
+  },
+  {
+    "name": "Cmon baby",
+    "artist": "Poly feat. phonix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:36",
+    "guide": "Dance guide for C'mon baby",
+    "original_name": "C'mon baby"
+  },
+  {
+    "name": "Disco Nights",
+    "artist": "Relect",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:37",
+    "guide": "Dance guide for Disco Nights",
+    "original_name": "Disco Nights"
+  },
+  {
+    "name": "The First Step",
+    "artist": "Yooh",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:58",
+    "guide": "Dance guide for The First Step",
+    "original_name": "The First Step"
+  },
+  {
+    "name": "Do It",
+    "artist": "Swanky Tunes",
+    "album": "Drop It (2018)",
+    "bpm": 128,
+    "length": "1:34",
+    "guide": "Dance guide for Drop It",
+    "original_name": "Drop It"
+  },
+  {
+    "name": "MOVE We Keep It Movin",
+    "artist": "Jonny Dynamite! feat. Lisa - paint with stars feat. Rio Hiiragi feat. U1-ASAMi",
+    "album": "in the MUSIC PLAYER of beatmania IIDX ULTIMATE MOBILE.",
+    "bpm": 142,
+    "length": "2:07",
+    "guide": "Dance guide for MOVE! (We Keep It Movin')",
+    "original_name": "MOVE! (We Keep It Movin')"
+  },
+  {
+    "name": "DUAL STRIKER",
+    "artist": "Mayumi Morinaga feat. Fernweh feat. L.E.D. feat. HuΣeR",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 185,
+    "length": "2:04",
+    "guide": "Dance guide for DUAL STRIKER",
+    "original_name": "DUAL STRIKER"
+  },
+  {
+    "name": "Set Me Free Hommarju Remix",
+    "artist": "Hommarju",
+    "album": "booklet.",
+    "bpm": 155,
+    "length": "1:56",
+    "guide": "Dance guide for Set Me Free (Hommarju Remix)",
+    "original_name": "Set Me Free (Hommarju Remix)"
+  },
+  {
+    "name": "GHOST MODE",
+    "artist": "lapix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:43",
+    "guide": "Dance guide for GHOST MODE",
+    "original_name": "GHOST MODE"
+  },
+  {
+    "name": "Rejoin",
+    "artist": "HuΣeR feat. PON",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:56",
+    "guide": "Dance guide for Rejoin",
+    "original_name": "Rejoin"
+  },
+  {
+    "name": "SUPER SUMMER SALE",
+    "artist": "U1 overground",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 155,
+    "length": "2:04",
+    "guide": "Dance guide for SUPER SUMMER SALE",
+    "original_name": "SUPER SUMMER SALE"
+  },
+  {
+    "name": "GHOST KINGDOM",
+    "artist": "劇団レコード",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 118,
+    "length": "1:49",
+    "guide": "Dance guide for GHOST KINGDOM",
+    "original_name": "GHOST KINGDOM"
+  },
+  {
+    "name": "Shuffle cats",
+    "artist": "猫叉Master",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:56",
+    "guide": "Dance guide for Shuffle cats",
+    "original_name": "Shuffle cats"
+  },
+  {
+    "name": "S7AGE",
+    "artist": "Zekk",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:40",
+    "guide": "Dance guide for S7AGE",
+    "original_name": "S7AGE"
+  },
+  {
+    "name": "Thank You Merry Christmas -DANCERUSH Mix-",
+    "artist": "VE feat. NUS",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:55",
+    "guide": "Dance guide for Thank You Merry Christmas -DANCERUSH Mix-",
+    "original_name": "Thank You Merry Christmas -DANCERUSH Mix-"
+  },
+  {
+    "name": "Be My Baby",
+    "artist": "nagomu tamaki",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:37",
+    "guide": "Dance guide for Be My Baby",
+    "original_name": "Be My Baby"
+  },
+  {
+    "name": "Crystarium",
+    "artist": "BlackY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:46",
+    "guide": "Dance guide for Crystarium",
+    "original_name": "Crystarium"
+  },
+  {
+    "name": "Nighthiker",
+    "artist": "nana",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 112,
+    "length": "1:48",
+    "guide": "Dance guide for Nighthiker",
+    "original_name": "Nighthiker"
+  },
+  {
+    "name": "Get On The Floor",
+    "artist": "RoughSketch",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:49",
+    "guide": "Dance guide for Get On The Floor",
+    "original_name": "Get On The Floor"
+  },
+  {
+    "name": "Luminous Pajama",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:42",
+    "guide": "Dance guide for Luminous Pajama",
+    "original_name": "Luminous Pajama"
+  },
+  {
+    "name": "朧",
+    "artist": "HHH feat. MM feat. ST",
+    "album": "production was nearly finished, there was a time when I wondered if he was burned out, but he wasn't that at all, rather, he was so motivated that he bought replacement glasses.",
+    "bpm": 149,
+    "length": "2:01",
+    "guide": "Dance guide for 朧",
+    "original_name": "朧"
+  },
+  {
+    "name": "SHINOBI",
+    "artist": "Relect",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:37",
+    "guide": "Dance guide for SHINOBI",
+    "original_name": "SHINOBI"
+  },
+  {
+    "name": "MUTSUKI",
+    "artist": "KO3",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:57",
+    "guide": "Dance guide for MUTSUKI",
+    "original_name": "MUTSUKI"
+  },
+  {
+    "name": "Nocturnus",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 108,
+    "length": "1:52",
+    "guide": "Dance guide for Nocturnus",
+    "original_name": "Nocturnus"
+  },
+  {
+    "name": "Broadway Walk",
+    "artist": "Dirty Androids",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 117,
+    "length": "1:43",
+    "guide": "Dance guide for Broadway Walk",
+    "original_name": "Broadway Walk"
+  },
+  {
+    "name": "Heat Up The Dancefloor",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "2:11",
+    "guide": "Dance guide for Heat Up The Dancefloor",
+    "original_name": "Heat Up The Dancefloor"
+  },
+  {
+    "name": "Cyber Devotion",
+    "artist": "ARM",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "2:02",
+    "guide": "Dance guide for Cyber Devotion",
+    "original_name": "Cyber Devotion"
+  },
+  {
+    "name": "A Legend Is Born",
+    "artist": "RoughSketch",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:55",
+    "guide": "Dance guide for A Legend Is Born",
+    "original_name": "A Legend Is Born"
+  },
+  {
+    "name": "BONE BORN",
+    "artist": "MARON",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:57",
+    "guide": "Dance guide for BONE BORN",
+    "original_name": "BONE BORN"
+  },
+  {
+    "name": "Polar Night",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 118,
+    "length": "2:06",
+    "guide": "Dance guide for Polar Night",
+    "original_name": "Polar Night"
+  },
+  {
+    "name": "HoneyComb",
+    "artist": "Hylen",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:44",
+    "guide": "Dance guide for HoneyComb",
+    "original_name": "HoneyComb"
+  },
+  {
+    "name": "Waiting for you",
+    "artist": "Soda Sphere",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:53",
+    "guide": "Dance guide for Waiting for you",
+    "original_name": "Waiting for you"
+  },
+  {
+    "name": "Feelin Good",
+    "artist": "DJ.DAI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:45",
+    "guide": "Dance guide for Feelin' Good",
+    "original_name": "Feelin' Good"
+  },
+  {
+    "name": "The Second Summer",
+    "artist": "rira",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:58",
+    "guide": "Dance guide for The Second Summer",
+    "original_name": "The Second Summer"
+  },
+  {
+    "name": "オネガイディスコミュージック",
+    "artist": "星野奏子 feat. uno",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 124,
+    "length": "1:50",
+    "guide": "Dance guide for オネガイ・ディスコ・ミュージック",
+    "original_name": "オネガイ・ディスコ・ミュージック"
+  },
+  {
+    "name": "HARD MODE",
+    "artist": "NATSUMI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:56",
+    "guide": "Dance guide for HARD MODE",
+    "original_name": "HARD MODE"
+  },
+  {
+    "name": "Garuda Hommarju Remix",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "2:08",
+    "guide": "Dance guide for Garuda (Hommarju Remix)",
+    "original_name": "Garuda (Hommarju Remix)"
+  },
+  {
+    "name": "Forgetting Machine RoughSketch Remix",
+    "artist": "RoughSketch",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 155,
+    "length": "1:52",
+    "guide": "Dance guide for Forgetting Machine (RoughSketch Remix)",
+    "original_name": "Forgetting Machine (RoughSketch Remix)"
+  },
+  {
+    "name": "DANCE ALL NIGHT",
+    "artist": "Sota Fujimori",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:57",
+    "guide": "Dance guide for DANCE ALL NIGHT",
+    "original_name": "DANCE ALL NIGHT"
+  },
+  {
+    "name": "Insomniac Nights",
+    "artist": "Relect",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:55",
+    "guide": "Dance guide for Insomniac Nights",
+    "original_name": "Insomniac Nights"
+  },
+  {
+    "name": "Bloody Bounce",
+    "artist": "Alicemetix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:52",
+    "guide": "Dance guide for Bloody Bounce",
+    "original_name": "Bloody Bounce"
+  },
+  {
+    "name": "Next Stage 2022",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "2:08",
+    "guide": "Dance guide for Next Stage 2022",
+    "original_name": "Next Stage 2022"
+  },
+  {
+    "name": "Hello World",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:54",
+    "guide": "Dance guide for Hello World",
+    "original_name": "Hello World"
+  },
+  {
+    "name": "Midnight Starlight",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 123,
+    "length": "2:01",
+    "guide": "Dance guide for Midnight Starlight",
+    "original_name": "Midnight Starlight"
+  },
+  {
+    "name": "Starlight Parade",
+    "artist": "ARM feat. Renko",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "2:07",
+    "guide": "Dance guide for Starlight Parade",
+    "original_name": "Starlight Parade"
+  },
+  {
+    "name": "You You You",
+    "artist": "D.watt",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 146,
+    "length": "1:45",
+    "guide": "Dance guide for You You You",
+    "original_name": "You You You"
+  },
+  {
+    "name": "Prettiful",
+    "artist": "BlackY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 129,
+    "length": "1:55",
+    "guide": "Dance guide for Prettiful!",
+    "original_name": "Prettiful!"
+  },
+  {
+    "name": "Anthurium",
+    "artist": "BlackY feat. Risa Yuzuki",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 142,
+    "length": "1:51",
+    "guide": "Dance guide for Anthurium",
+    "original_name": "Anthurium"
+  },
+  {
+    "name": "PARTY ALL NIGHTDJ KEN-BOW MIX",
+    "artist": "HiBiKi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:56",
+    "guide": "Dance guide for PARTY ALL NIGHT(DJ KEN-BOW MIX)",
+    "original_name": "PARTY ALL NIGHT(DJ KEN-BOW MIX)"
+  },
+  {
+    "name": "Get On Da Floor",
+    "artist": "DJ Shimamura",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:49",
+    "guide": "Dance guide for Get On Da Floor",
+    "original_name": "Get On Da Floor"
+  },
+  {
+    "name": "Yunis Nocturnal Days",
+    "artist": "かめりあ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 153,
+    "length": "1:58",
+    "guide": "Dance guide for Yuni's Nocturnal Days",
+    "original_name": "Yuni's Nocturnal Days"
+  },
+  {
+    "name": "Ark",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "2:00",
+    "guide": "Dance guide for Ark",
+    "original_name": "Ark"
+  },
+  {
+    "name": "Passion",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      105,
+      120
+    ],
+    "length": "2:03",
+    "guide": "Dance guide for Passion",
+    "original_name": "Passion"
+  },
+  {
+    "name": "Blue Sky",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 142,
+    "length": "1:54",
+    "guide": "Dance guide for Blue Sky",
+    "original_name": "Blue Sky"
+  },
+  {
+    "name": "Mouse Music",
+    "artist": "uno",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:49",
+    "guide": "Dance guide for Mouse Music",
+    "original_name": "Mouse Music"
+  },
+  {
+    "name": "Last Summer",
+    "artist": "BEMANI Sound Team \"Monolith vs. Nautilus\"",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:56",
+    "guide": "Dance guide for Last Summer",
+    "original_name": "Last Summer"
+  },
+  {
+    "name": "Barbless Ego",
+    "artist": "MAD CHILD",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "2:07",
+    "guide": "Dance guide for Barbless Ego",
+    "original_name": "Barbless Ego"
+  },
+  {
+    "name": "Crazy Control",
+    "artist": "D-crew feat. VAL TIATIA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 105,
+    "length": "1:39",
+    "guide": "Dance guide for Crazy Control",
+    "original_name": "Crazy Control"
+  },
+  {
+    "name": "aleatrik",
+    "artist": "nc ft. NRGFactory",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:57",
+    "guide": "Dance guide for aleatrik",
+    "original_name": "aleatrik"
+  },
+  {
+    "name": "Vermilion",
+    "artist": "Remo-con",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 143,
+    "length": "1:35",
+    "guide": "Dance guide for Vermilion",
+    "original_name": "Vermilion"
+  },
+  {
+    "name": "Town Walk",
+    "artist": "Carpainter",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:01",
+    "guide": "Dance guide for Town Walk",
+    "original_name": "Town Walk"
+  },
+  {
+    "name": "FIRE FIRE",
+    "artist": "StripE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "2:07",
+    "guide": "Dance guide for FIRE FIRE",
+    "original_name": "FIRE FIRE"
+  },
+  {
+    "name": "FLOWER STARDOM Remix",
+    "artist": "DJ TOTTO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:42",
+    "guide": "Dance guide for FLOWER (STARDOM Remix)",
+    "original_name": "FLOWER (STARDOM Remix)"
+  },
+  {
+    "name": "Impress",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:34",
+    "guide": "Dance guide for Impress",
+    "original_name": "Impress"
+  },
+  {
+    "name": "RISING FIRE HAWK",
+    "artist": "L.E.D.-G",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 157,
+    "length": "1:55",
+    "guide": "Dance guide for RISING FIRE HAWK",
+    "original_name": "RISING FIRE HAWK"
+  },
+  {
+    "name": "Midnight Amaretto",
+    "artist": "かめりあ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:45",
+    "guide": "Dance guide for Midnight Amaretto",
+    "original_name": "Midnight Amaretto"
+  },
+  {
+    "name": "THE SAFARI STARDOM Remix",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 134,
+    "length": "1:47",
+    "guide": "Dance guide for THE SAFARI (STARDOM Remix)",
+    "original_name": "THE SAFARI (STARDOM Remix)"
+  },
+  {
+    "name": "DANCERUSH STARDOM ANTHEM",
+    "artist": "kors k feat. 福島蘭世",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "2:02",
+    "guide": "Dance guide for DANCERUSH STARDOM ANTHEM",
+    "original_name": "DANCERUSH STARDOM ANTHEM"
+  },
+  {
+    "name": "take me higher",
+    "artist": "KOTONOHOUSE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:53",
+    "guide": "Dance guide for take me higher",
+    "original_name": "take me higher"
+  },
+  {
+    "name": "BEYOND THE EARTH STARDOM Remix",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "2:10",
+    "guide": "Dance guide for BEYOND THE EARTH (STARDOM Remix)",
+    "original_name": "BEYOND THE EARTH (STARDOM Remix)"
+  },
+  {
+    "name": "灼熱Beach Side Bunny STARDOM Remix",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:37",
+    "guide": "Dance guide for 灼熱Beach Side Bunny (STARDOM Remix)",
+    "original_name": "灼熱Beach Side Bunny (STARDOM Remix)"
+  },
+  {
+    "name": "JOK3R",
+    "artist": "Yuta Imai",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:59",
+    "guide": "Dance guide for JOK3R",
+    "original_name": "JOK3R"
+  },
+  {
+    "name": "Undercover",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "2:05",
+    "guide": "Dance guide for Undercover",
+    "original_name": "Undercover"
+  },
+  {
+    "name": "MY NAME IS",
+    "artist": "STUDIO MOTTIE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:46",
+    "guide": "Dance guide for MY NAME IS",
+    "original_name": "MY NAME IS"
+  },
+  {
+    "name": "Midland Mainline",
+    "artist": "Genick",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:42",
+    "guide": "Dance guide for Midland Mainline",
+    "original_name": "Midland Mainline"
+  },
+  {
+    "name": "Roughneck Disco",
+    "artist": "Itchy feat. Scratchy",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:55",
+    "guide": "Dance guide for Roughneck Disco",
+    "original_name": "Roughneck Disco"
+  },
+  {
+    "name": "Villains",
+    "artist": "RoughSketch",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 155,
+    "length": "1:50",
+    "guide": "Dance guide for Villains",
+    "original_name": "Villains"
+  },
+  {
+    "name": "PRANK",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:35",
+    "guide": "Dance guide for PRANK",
+    "original_name": "PRANK"
+  },
+  {
+    "name": "Dont Rush but Dance Rush",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "2:08",
+    "guide": "Dance guide for Don't Rush but Dance Rush",
+    "original_name": "Don't Rush but Dance Rush"
+  },
+  {
+    "name": "My Time",
+    "artist": "RiraN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:54",
+    "guide": "Dance guide for My Time",
+    "original_name": "My Time"
+  },
+  {
+    "name": "Ch4nge M4 Life",
+    "artist": "LADY'S ONLY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:46",
+    "guide": "Dance guide for Ch4nge M4 Life",
+    "original_name": "Ch4nge M4 Life"
+  },
+  {
+    "name": "Synaptic",
+    "artist": "2ToneDisco",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "1:51",
+    "guide": "Dance guide for Synaptic",
+    "original_name": "Synaptic"
+  },
+  {
+    "name": "Official Bootleg",
+    "artist": "Blacklolita",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:46",
+    "guide": "Dance guide for Official Bootleg",
+    "original_name": "Official Bootleg"
+  },
+  {
+    "name": "She Shines Under The Mirror Ball",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:41",
+    "guide": "Dance guide for She Shines Under The Mirror Ball",
+    "original_name": "She Shines Under The Mirror Ball"
+  },
+  {
+    "name": "Warpstep",
+    "artist": "DJ Shimamura",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:56",
+    "guide": "Dance guide for Warpstep",
+    "original_name": "Warpstep"
+  },
+  {
+    "name": "渚の小悪魔ラヴリィレイディオ STARDOM Remix",
+    "artist": "July 18th, 2019",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 107,
+    "length": "1:51",
+    "guide": "Dance guide for †渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)",
+    "original_name": "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)"
+  },
+  {
+    "name": "Majestic",
+    "artist": "July 31st, 2019",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:40",
+    "guide": "Dance guide for Majestic",
+    "original_name": "Majestic"
+  },
+  {
+    "name": "Mandrake",
+    "artist": "September 2nd, 2019",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:40",
+    "guide": "Dance guide for Mandrake",
+    "original_name": "Mandrake"
+  },
+  {
+    "name": "Crazy For You",
+    "artist": "September 1st, 2021",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:58",
+    "guide": "Dance guide for Crazy For You",
+    "original_name": "Crazy For You"
+  },
+  {
+    "name": "I Like To BOUNCE",
+    "artist": "February 2nd, 2022",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 134,
+    "length": "1:59",
+    "guide": "Dance guide for I Like To BOUNCE",
+    "original_name": "I Like To BOUNCE"
+  },
+  {
+    "name": "Let Me See Your Dance",
+    "artist": "August 31st, 2022",
+    "album": "in beatmania IIDX ULTIMATE MOBILE's MUSIC PLAYER, Let Me See Your Dance's artist is written as kors k vs Bemani Sound Team \"SYUNN\". This is not yet corrected.",
+    "bpm": 150,
+    "length": "2:02",
+    "guide": "Dance guide for Let Me See Your Dance",
+    "original_name": "Let Me See Your Dance"
+  },
+  {
+    "name": "The GameHacker Sampled Crazy Shuffle",
+    "artist": "February 8th, 2023",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:59",
+    "guide": "Dance guide for The GameHacker (Sampled Crazy Shuffle)",
+    "original_name": "The GameHacker (Sampled Crazy Shuffle)"
+  },
+  {
+    "name": "Make That Body",
+    "artist": "August 30th, 2023",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "2:08",
+    "guide": "Dance guide for Make That Body",
+    "original_name": "Make That Body"
+  },
+  {
+    "name": "Lose Control",
+    "artist": "February 7th, 2024",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 142,
+    "length": "1:52",
+    "guide": "Dance guide for Lose Control",
+    "original_name": "Lose Control"
+  },
+  {
+    "name": "Rushiest Rush",
+    "artist": "February 5th, 2025",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      110,
+      145
+    ],
+    "length": "2:03",
+    "guide": "Dance guide for Rushiest Rush",
+    "original_name": "Rushiest Rush"
+  },
+  {
+    "name": "Summery",
+    "artist": "KO3",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:52",
+    "guide": "Dance guide for Summery",
+    "original_name": "Summery"
+  },
+  {
+    "name": "Deep Vibes",
+    "artist": "Carpainter",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 124,
+    "length": "1:31",
+    "guide": "Dance guide for Deep Vibes",
+    "original_name": "Deep Vibes"
+  },
+  {
+    "name": "HighBALL",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:35",
+    "guide": "Dance guide for HighBALL",
+    "original_name": "HighBALL"
+  },
+  {
+    "name": "Dual Bladez",
+    "artist": "おもしろ三国志",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:49",
+    "guide": "Dance guide for Dual Bladez",
+    "original_name": "Dual Bladez"
+  },
+  {
+    "name": "DO YOU WANNA PARTYDJ KEN-BOW MIX",
+    "artist": "HiBiKi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:35",
+    "guide": "Dance guide for DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)",
+    "original_name": "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)"
+  },
+  {
+    "name": "Jalebi",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:34",
+    "guide": "Dance guide for Jalebi",
+    "original_name": "Jalebi"
+  },
+  {
+    "name": "Raw Crawler",
+    "artist": "Masayoshi Iimori",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:36",
+    "guide": "Dance guide for Raw Crawler",
+    "original_name": "Raw Crawler"
+  },
+  {
+    "name": "Bad Boy Birdwatch",
+    "artist": "Hyper feat. Juice",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:36",
+    "guide": "Dance guide for Bad Boy Birdwatch",
+    "original_name": "Bad Boy Birdwatch"
+  },
+  {
+    "name": "Garuda",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "1:44",
+    "guide": "Dance guide for Garuda",
+    "original_name": "Garuda"
+  },
+  {
+    "name": "Memories",
+    "artist": "CHEAP feat. CREAM",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 112,
+    "length": "1:51",
+    "guide": "Dance guide for Memories",
+    "original_name": "Memories"
+  },
+  {
+    "name": "Flying soda",
+    "artist": "猫叉Master feat. 林ももこ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 106,
+    "length": "2:00",
+    "guide": "Dance guide for Flying soda",
+    "original_name": "Flying soda"
+  },
+  {
+    "name": "Fire Spirit",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:52",
+    "guide": "Dance guide for Fire Spirit",
+    "original_name": "Fire Spirit"
+  },
+  {
+    "name": "Night  Day",
+    "artist": "TANUKI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:50",
+    "guide": "Dance guide for Night & Day",
+    "original_name": "Night & Day"
+  },
+  {
+    "name": "Wowie Zowie",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:48",
+    "guide": "Dance guide for Wowie Zowie!",
+    "original_name": "Wowie Zowie!"
+  },
+  {
+    "name": "Twinkle",
+    "artist": "Aiobahn",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:40",
+    "guide": "Dance guide for Twinkle",
+    "original_name": "Twinkle"
+  },
+  {
+    "name": "RAVELINE ATTACK",
+    "artist": "hara",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:53",
+    "guide": "Dance guide for RAVELINE ATTACK",
+    "original_name": "RAVELINE ATTACK"
+  },
+  {
+    "name": "Switch",
+    "artist": "Dubscribe",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:54",
+    "guide": "Dance guide for Switch",
+    "original_name": "Switch"
+  },
+  {
+    "name": "Set Me Free",
+    "artist": "kors k feat. L.E.D.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 152,
+    "length": "1:59",
+    "guide": "Dance guide for Set Me Free",
+    "original_name": "Set Me Free"
+  },
+  {
+    "name": "Like This",
+    "artist": "android52",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:51",
+    "guide": "Dance guide for Like This",
+    "original_name": "Like This"
+  },
+  {
+    "name": "Dive in Blue",
+    "artist": "BlackY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "1:54",
+    "guide": "Dance guide for Dive in Blue",
+    "original_name": "Dive in Blue"
+  },
+  {
+    "name": "Shamshir",
+    "artist": "Blacklolita",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:58",
+    "guide": "Dance guide for Shamshir",
+    "original_name": "Shamshir"
+  },
+  {
+    "name": "Act Now",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 157,
+    "length": "1:42",
+    "guide": "Dance guide for Act Now!",
+    "original_name": "Act Now!"
+  },
+  {
+    "name": "Dont Speak",
+    "artist": "PRI feat. DASK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:53",
+    "guide": "Dance guide for Don't Speak",
+    "original_name": "Don't Speak"
+  },
+  {
+    "name": "Touch Me",
+    "artist": "C-Show",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:48",
+    "guide": "Dance guide for Touch Me",
+    "original_name": "Touch Me"
+  },
+  {
+    "name": "Meltdown",
+    "artist": "G Blazen",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:00",
+    "guide": "Dance guide for Meltdown",
+    "original_name": "Meltdown"
+  },
+  {
+    "name": "UCHU",
+    "artist": "Ken Plus Ichiro",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:45",
+    "guide": "Dance guide for UCHU",
+    "original_name": "UCHU"
+  },
+  {
+    "name": "Sunrise feat. LEO  Viola",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:05",
+    "guide": "Dance guide for Sunrise (feat. LEO & Viola)",
+    "original_name": "Sunrise (feat. LEO & Viola)"
+  },
+  {
+    "name": "Tropical Love",
+    "artist": "CHEAP feat. CREAM",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 105,
+    "length": "1:53",
+    "guide": "Dance guide for Tropical Love",
+    "original_name": "Tropical Love"
+  },
+  {
+    "name": "CHAPTER IIReady Go",
+    "artist": "kors k feat. 福島蘭世",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "2:03",
+    "guide": "Dance guide for CHAPTER II(Ready Go)",
+    "original_name": "CHAPTER II(Ready Go)"
+  },
+  {
+    "name": "Comin Back",
+    "artist": "TEMPLIME",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 136,
+    "length": "1:56",
+    "guide": "Dance guide for Comin' Back",
+    "original_name": "Comin' Back"
+  },
+  {
+    "name": "7 to Smoke",
+    "artist": "lapix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:48",
+    "guide": "Dance guide for 7 to Smoke",
+    "original_name": "7 to Smoke"
+  },
+  {
+    "name": "New Solution",
+    "artist": "KARUT",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:47",
+    "guide": "Dance guide for New Solution",
+    "original_name": "New Solution"
+  },
+  {
+    "name": "8347",
+    "artist": "Zekk",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:41",
+    "guide": "Dance guide for 8347",
+    "original_name": "8347"
+  },
+  {
+    "name": "Do It",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "1:48",
+    "guide": "Dance guide for Do It!",
+    "original_name": "Do It!"
+  },
+  {
+    "name": "Orange Lullaby",
+    "artist": "Yooh",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:57",
+    "guide": "Dance guide for Orange Lullaby",
+    "original_name": "Orange Lullaby"
+  },
+  {
+    "name": "Ideal Sunset",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:49",
+    "guide": "Dance guide for Ideal Sunset",
+    "original_name": "Ideal Sunset"
+  },
+  {
+    "name": "Flow",
+    "artist": "NUU$HI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:51",
+    "guide": "Dance guide for Flow",
+    "original_name": "Flow"
+  },
+  {
+    "name": "Anxiety",
+    "artist": "YUKIYANAGI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:43",
+    "guide": "Dance guide for Anxiety",
+    "original_name": "Anxiety"
+  },
+  {
+    "name": "Trash",
+    "artist": "Candy House",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:53",
+    "guide": "Dance guide for Trash",
+    "original_name": "Trash"
+  },
+  {
+    "name": "GRADIUS REMIXBA Ver.",
+    "artist": "TOKYO MACHINE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:54",
+    "guide": "Dance guide for GRADIUS REMIX（↑↑↓↓←→←→BA Ver.)",
+    "original_name": "GRADIUS REMIX（↑↑↓↓←→←→BA Ver.)"
+  },
+  {
+    "name": "You Take My Soul",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:54",
+    "guide": "Dance guide for You Take My Soul",
+    "original_name": "You Take My Soul"
+  },
+  {
+    "name": "Golden Palms",
+    "artist": "Dirty Androids",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "2:01",
+    "guide": "Dance guide for Golden Palms",
+    "original_name": "Golden Palms"
+  },
+  {
+    "name": "Lets Party",
+    "artist": "Relect",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 122,
+    "length": "1:53",
+    "guide": "Dance guide for Let's Party!!",
+    "original_name": "Let's Party!!"
+  },
+  {
+    "name": "Ignited Night",
+    "artist": "HHH",
+    "album": "Rainbow☆Rainbow.",
+    "bpm": 149,
+    "length": "1:34",
+    "guide": "Dance guide for Ignited Night",
+    "original_name": "Ignited Night"
+  },
+  {
+    "name": "Neon Rider",
+    "artist": "RoughSketch",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:50",
+    "guide": "Dance guide for Neon Rider",
+    "original_name": "Neon Rider"
+  },
+  {
+    "name": "Catastrophic Dance",
+    "artist": "the wandering bard feat. 志方あきこ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "1:58",
+    "guide": "Dance guide for Catastrophic Dance",
+    "original_name": "Catastrophic Dance"
+  },
+  {
+    "name": "Without Words",
+    "artist": "Dominant feat. Space",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:55",
+    "guide": "Dance guide for Without Words",
+    "original_name": "Without Words"
+  },
+  {
+    "name": "Oboro Cybernetics",
+    "artist": "Tanchiky",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 121,
+    "length": "1:55",
+    "guide": "Dance guide for Oboro Cybernetics",
+    "original_name": "Oboro Cybernetics"
+  },
+  {
+    "name": "Sweet Bordeaux Nightmare",
+    "artist": "かめりあ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 129,
+    "length": "2:02",
+    "guide": "Dance guide for Sweet Bordeaux Nightmare",
+    "original_name": "Sweet Bordeaux Nightmare"
+  },
+  {
+    "name": "Draw the Savage",
+    "artist": "Ryunosuke Kudo",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 134,
+    "length": "2:00",
+    "guide": "Dance guide for Draw the Savage",
+    "original_name": "Draw the Savage"
+  },
+  {
+    "name": "Linkage",
+    "artist": "DJ WILDPARTY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "2:01",
+    "guide": "Dance guide for Linkage",
+    "original_name": "Linkage"
+  },
+  {
+    "name": "Come aROUND",
+    "artist": "nora2r feat. TRIΔNGLE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:55",
+    "guide": "Dance guide for Come aROUND",
+    "original_name": "Come aROUND"
+  },
+  {
+    "name": "Tropical Juice",
+    "artist": "NATSUMI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 127,
+    "length": "2:04",
+    "guide": "Dance guide for Tropical Juice",
+    "original_name": "Tropical Juice"
+  },
+  {
+    "name": "Caldwell 99",
+    "artist": "BlackY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 142,
+    "length": "2:03",
+    "guide": "Dance guide for Caldwell 99",
+    "original_name": "Caldwell 99"
+  },
+  {
+    "name": "So Fabulous",
+    "artist": "Ryu☆ feat. Dai",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 149,
+    "length": "2:01",
+    "guide": "Dance guide for So Fabulous !!",
+    "original_name": "So Fabulous !!"
+  },
+  {
+    "name": "Basement Floor",
+    "artist": "ZAQUVA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 124,
+    "length": "1:49",
+    "guide": "Dance guide for Basement Floor",
+    "original_name": "Basement Floor"
+  },
+  {
+    "name": "Buss Tune",
+    "artist": "DJ RoughSketch",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:56",
+    "guide": "Dance guide for Buss Tune",
+    "original_name": "Buss Tune"
+  },
+  {
+    "name": "Killer Ability",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:04",
+    "guide": "Dance guide for Killer Ability",
+    "original_name": "Killer Ability"
+  },
+  {
+    "name": "Into UR Heart",
+    "artist": "Sota Fujimori feat. yoshiko",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "2:04",
+    "guide": "Dance guide for Into UR Heart",
+    "original_name": "Into UR Heart"
+  },
+  {
+    "name": "Sleepin in the night",
+    "artist": "nagomu tamaki",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "2:00",
+    "guide": "Dance guide for Sleepin' in the night",
+    "original_name": "Sleepin' in the night"
+  },
+  {
+    "name": "New High",
+    "artist": "The Herb Shop",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:51",
+    "guide": "Dance guide for New High",
+    "original_name": "New High"
+  },
+  {
+    "name": "Freeway Shuffle",
+    "artist": "dj TAKA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "1:43",
+    "guide": "Dance guide for Freeway Shuffle",
+    "original_name": "Freeway Shuffle"
+  },
+  {
+    "name": "Crazy Shuffle",
+    "artist": "Yooh",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:13",
+    "guide": "Dance guide for Crazy Shuffle",
+    "original_name": "Crazy Shuffle"
+  },
+  {
+    "name": "Kill The Beat",
+    "artist": "lapix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:37",
+    "guide": "Dance guide for Kill The Beat",
+    "original_name": "Kill The Beat"
+  },
+  {
+    "name": "bass 2 bass",
+    "artist": "Ryu☆",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:39",
+    "guide": "Dance guide for bass 2 bass",
+    "original_name": "bass 2 bass"
+  },
+  {
+    "name": "Summers End",
+    "artist": "Nhato",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:55",
+    "guide": "Dance guide for Summer's End",
+    "original_name": "Summer's End"
+  },
+  {
+    "name": "Party Jumpin",
+    "artist": "KO3",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:56",
+    "guide": "Dance guide for Party Jumpin'",
+    "original_name": "Party Jumpin'"
+  },
+  {
+    "name": "Visnu",
+    "artist": "Blacklolita",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:54",
+    "guide": "Dance guide for Visnu",
+    "original_name": "Visnu"
+  },
+  {
+    "name": "Love Me",
+    "artist": "Kenichi Chiba",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 118,
+    "length": "1:50",
+    "guide": "Dance guide for Love Me",
+    "original_name": "Love Me"
+  },
+  {
+    "name": "Audiovisual",
+    "artist": "Moe Shop",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:50",
+    "guide": "Dance guide for Audiovisual",
+    "original_name": "Audiovisual"
+  },
+  {
+    "name": "Stepper",
+    "artist": "PSYQUI",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:48",
+    "guide": "Dance guide for Stepper",
+    "original_name": "Stepper"
+  },
+  {
+    "name": "December in Strasbourg",
+    "artist": "nana",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 115,
+    "length": "1:44",
+    "guide": "Dance guide for December in Strasbourg",
+    "original_name": "December in Strasbourg"
+  },
+  {
+    "name": "Pandoras Box",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:51",
+    "guide": "Dance guide for Pandora's Box",
+    "original_name": "Pandora's Box"
+  },
+  {
+    "name": "Bounce To This",
+    "artist": "android52",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:43",
+    "guide": "Dance guide for Bounce To This",
+    "original_name": "Bounce To This"
+  },
+  {
+    "name": "Too Late Snow",
+    "artist": "moimoi feat. Xceon feat. Dai.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "2:03",
+    "guide": "Dance guide for Too Late Snow",
+    "original_name": "Too Late Snow"
+  },
+  {
+    "name": "Sleepwell",
+    "artist": "DJ WILDPARTY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:46",
+    "guide": "Dance guide for Sleepwell",
+    "original_name": "Sleepwell"
+  },
+  {
+    "name": "Spin  Slide",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 137,
+    "length": "1:43",
+    "guide": "Dance guide for Spin & Slide",
+    "original_name": "Spin & Slide"
+  },
+  {
+    "name": "E",
+    "artist": "dj MAX STEROID",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 152,
+    "length": "2:00",
+    "guide": "Dance guide for E",
+    "original_name": "E"
+  },
+  {
+    "name": "Lets DANCE aROUND",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:54",
+    "guide": "Dance guide for Let's DANCE aROUND!!",
+    "original_name": "Let's DANCE aROUND!!"
+  },
+  {
+    "name": "Touch My Body",
+    "artist": "anubasu-anubasu",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "2:01",
+    "guide": "Dance guide for Touch My Body",
+    "original_name": "Touch My Body"
+  },
+  {
+    "name": "Virus Funk",
+    "artist": "Nhato",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "2:01",
+    "guide": "Dance guide for Virus Funk",
+    "original_name": "Virus Funk"
+  },
+  {
+    "name": "Love You",
+    "artist": "KE!JU",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:49",
+    "guide": "Dance guide for Love You",
+    "original_name": "Love You"
+  },
+  {
+    "name": "Watch Out Pt.2",
+    "artist": "DJ Mass MAD Izm* feat. DJ Yoshitaka",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 148,
+    "length": "1:50",
+    "guide": "Dance guide for Watch Out Pt.2",
+    "original_name": "Watch Out Pt.2"
+  },
+  {
+    "name": "Virtual Bit",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 152,
+    "length": "1:58",
+    "guide": "Dance guide for Virtual Bit",
+    "original_name": "Virtual Bit"
+  },
+  {
+    "name": "Debug Dance",
+    "artist": "lapix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 151,
+    "length": "2:00",
+    "guide": "Dance guide for Debug Dance",
+    "original_name": "Debug Dance"
+  },
+  {
+    "name": "Stay Alone",
+    "artist": "コバヤシユウヤ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:59",
+    "guide": "Dance guide for Stay Alone",
+    "original_name": "Stay Alone"
+  },
+  {
+    "name": "I-W-U I Want U",
+    "artist": "nagomu tamaki",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:59",
+    "guide": "Dance guide for I-W-U (I Want U)",
+    "original_name": "I-W-U (I Want U)"
+  },
+  {
+    "name": "Get Up feat. Kanae Asaba",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:58",
+    "guide": "Dance guide for Get Up! feat. Kanae Asaba",
+    "original_name": "Get Up! feat. Kanae Asaba"
+  },
+  {
+    "name": "Sky Is The Limit",
+    "artist": "Sota F. feat. Anna",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:42",
+    "guide": "Dance guide for Sky Is The Limit",
+    "original_name": "Sky Is The Limit"
+  },
+  {
+    "name": "Shall We Matching_",
+    "artist": "まろん feat. みゅい",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "2:01",
+    "guide": "Dance guide for Shall We Matching?",
+    "original_name": "Shall We Matching?"
+  },
+  {
+    "name": "私をディスコに連れてって TOKYO",
+    "artist": "U1 vs U1 overground",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 142,
+    "length": "1:59",
+    "guide": "Dance guide for 私をディスコに連れてって TOKYO",
+    "original_name": "私をディスコに連れてって TOKYO"
+  },
+  {
+    "name": "Bad Riddim",
+    "artist": "KAN TAKAHIKO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 105,
+    "length": "1:55",
+    "guide": "Dance guide for Bad Riddim",
+    "original_name": "Bad Riddim"
+  },
+  {
+    "name": "Forgetting Machine",
+    "artist": "TAKU INOUE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 174,
+    "length": "1:42",
+    "guide": "Dance guide for Forgetting Machine",
+    "original_name": "Forgetting Machine"
+  },
+  {
+    "name": "Hastur",
+    "artist": "USAO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 118,
+    "length": "1:54",
+    "guide": "Dance guide for Hastur",
+    "original_name": "Hastur"
+  },
+  {
+    "name": "Dont Be Afraid",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:37",
+    "guide": "Dance guide for Don't Be Afraid",
+    "original_name": "Don't Be Afraid"
+  },
+  {
+    "name": "Poochie",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      110,
+      220
+    ],
+    "length": "1:58",
+    "guide": "Dance guide for Poochie",
+    "original_name": "Poochie"
+  },
+  {
+    "name": "Honey Bounce",
+    "artist": "nora2r",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:45",
+    "guide": "Dance guide for Honey Bounce",
+    "original_name": "Honey Bounce"
+  },
+  {
+    "name": "BREDLI",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:48",
+    "guide": "Dance guide for BREDLI",
+    "original_name": "BREDLI"
+  },
+  {
+    "name": "BENJAMIN",
+    "artist": "MARON",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:50",
+    "guide": "Dance guide for BENJAMIN",
+    "original_name": "BENJAMIN"
+  },
+  {
+    "name": "Awakening",
+    "artist": "Shouya Namai",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:51",
+    "guide": "Dance guide for Awakening",
+    "original_name": "Awakening"
+  },
+  {
+    "name": "DEVILFISHMANのテーマ",
+    "artist": "劇団レコード",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:59",
+    "guide": "Dance guide for DEVILFISHMANのテーマ",
+    "original_name": "DEVILFISHMANのテーマ"
+  },
+  {
+    "name": "Synth Presets  Sample Loops",
+    "artist": "BEMANI Sound Team \"90s crew cut\"",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:51",
+    "guide": "Dance guide for Synth Presets & Sample Loops",
+    "original_name": "Synth Presets & Sample Loops"
+  },
+  {
+    "name": "Shuffle The Cards",
+    "artist": "uno",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:52",
+    "guide": "Dance guide for Shuffle The Cards",
+    "original_name": "Shuffle The Cards"
+  },
+  {
+    "name": "Penguin Morning",
+    "artist": "nora2r",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:53",
+    "guide": "Dance guide for Penguin Morning",
+    "original_name": "Penguin Morning"
+  },
+  {
+    "name": "neu STARDOM Remix",
+    "artist": "少年ラジオ feat. PON",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "1:52",
+    "guide": "Dance guide for neu (STARDOM Remix)",
+    "original_name": "neu (STARDOM Remix)"
+  },
+  {
+    "name": "Metric",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 123,
+    "length": "1:59",
+    "guide": "Dance guide for Metric",
+    "original_name": "Metric"
+  },
+  {
+    "name": "Crystal Clear",
+    "artist": "Stessie",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 124,
+    "length": "1:54",
+    "guide": "Dance guide for Crystal Clear",
+    "original_name": "Crystal Clear"
+  },
+  {
+    "name": "WELCOME TO MY GAME",
+    "artist": "GUCHON",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:40",
+    "guide": "Dance guide for WELCOME TO MY GAME",
+    "original_name": "WELCOME TO MY GAME"
+  },
+  {
+    "name": "melody H4CKER",
+    "artist": "Moe Shop",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 155,
+    "length": "1:43",
+    "guide": "Dance guide for melody H4CKER",
+    "original_name": "melody H4CKER"
+  },
+  {
+    "name": "Brand New Step",
+    "artist": "Kradness",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 120,
+    "length": "1:50",
+    "guide": "Dance guide for Brand New Step",
+    "original_name": "Brand New Step"
+  },
+  {
+    "name": "HANDS UP IN THE AIR",
+    "artist": "U1",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:42",
+    "guide": "Dance guide for HANDS UP IN THE AIR",
+    "original_name": "HANDS UP IN THE AIR"
+  },
+  {
+    "name": "Tropical White",
+    "artist": "TEMPLIME",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:46",
+    "guide": "Dance guide for Tropical White",
+    "original_name": "Tropical White"
+  },
+  {
+    "name": "Rock The Club",
+    "artist": "Expander",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 260,
+    "length": "2:04",
+    "guide": "Dance guide for Rock The Club",
+    "original_name": "Rock The Club"
+  },
+  {
+    "name": "Jumbo Drill",
+    "artist": "Nizikawa",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:52",
+    "guide": "Dance guide for Jumbo Drill",
+    "original_name": "Jumbo Drill"
+  },
+  {
+    "name": "音楽 STARDOM Remix",
+    "artist": "cosMo＠暴走P",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:59",
+    "guide": "Dance guide for 音楽 (STARDOM Remix)",
+    "original_name": "音楽 (STARDOM Remix)"
+  },
+  {
+    "name": "Beluga",
+    "artist": "S-C-U",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:51",
+    "guide": "Dance guide for Beluga",
+    "original_name": "Beluga"
+  },
+  {
+    "name": "All All Night",
+    "artist": "Ba-Boom",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 129,
+    "length": "2:00",
+    "guide": "Dance guide for All All Night",
+    "original_name": "All All Night"
+  },
+  {
+    "name": "FLASH BACK",
+    "artist": "Musicarus",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:58",
+    "guide": "Dance guide for FLASH BACK",
+    "original_name": "FLASH BACK"
+  },
+  {
+    "name": "焱影",
+    "artist": "RoughSkreamZ feat. 楽天斎",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 136,
+    "length": "2:00",
+    "guide": "Dance guide for 焱影",
+    "original_name": "焱影"
+  },
+  {
+    "name": "ZZ STARDOM Remix",
+    "artist": "OSTER project",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:46",
+    "guide": "Dance guide for ZZ (STARDOM Remix)",
+    "original_name": "ZZ (STARDOM Remix)"
+  },
+  {
+    "name": "Red Hot Chili Samba",
+    "artist": "ARM",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:01",
+    "guide": "Dance guide for Red Hot Chili Samba!",
+    "original_name": "Red Hot Chili Samba!"
+  },
+  {
+    "name": "about right",
+    "artist": "The Foie-Gras of the Sea",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:03",
+    "guide": "Dance guide for about right",
+    "original_name": "about right"
+  },
+  {
+    "name": "A Vague Idea",
+    "artist": "PHQUASE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 134,
+    "length": "1:54",
+    "guide": "Dance guide for A Vague Idea",
+    "original_name": "A Vague Idea"
+  },
+  {
+    "name": "So What",
+    "artist": "PRI feat. DASK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:48",
+    "guide": "Dance guide for So What",
+    "original_name": "So What"
+  },
+  {
+    "name": "Light of Love",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:52",
+    "guide": "Dance guide for Light of Love",
+    "original_name": "Light of Love"
+  },
+  {
+    "name": "ROCK THE PARTY",
+    "artist": "KE!JU",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:05",
+    "guide": "Dance guide for ROCK THE PARTY",
+    "original_name": "ROCK THE PARTY"
+  },
+  {
+    "name": "TITANS RETURN STARDOM Remix",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:51",
+    "guide": "Dance guide for TITANS RETURN (STARDOM Remix)",
+    "original_name": "TITANS RETURN (STARDOM Remix)"
+  },
+  {
+    "name": "Sakura Reflection STARDOM Remix",
+    "artist": "Sakura Reflection",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 134,
+    "length": "1:55",
+    "guide": "Dance guide for Sakura Reflection (STARDOM Remix)",
+    "original_name": "Sakura Reflection (STARDOM Remix)"
+  },
+  {
+    "name": "gigadelic STARDOM Remix",
+    "artist": "gigadelic",
+    "album": "booklet.",
+    "bpm": 155,
+    "length": "1:45",
+    "guide": "Dance guide for gigadelic (STARDOM Remix)",
+    "original_name": "gigadelic (STARDOM Remix)"
+  },
+  {
+    "name": "ドーパミン STARDOM Remix",
+    "artist": "ドーパミン",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:59",
+    "guide": "Dance guide for ドーパミン (STARDOM Remix)",
+    "original_name": "ドーパミン (STARDOM Remix)"
+  },
+  {
+    "name": "DEADLOCK STARDOM Remix",
+    "artist": "DEADLOCK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 119,
+    "length": "1:51",
+    "guide": "Dance guide for DEADLOCK (STARDOM Remix)",
+    "original_name": "DEADLOCK (STARDOM Remix)"
+  },
+  {
+    "name": "黒髪乱れし修羅となりて STARDOM Remix",
+    "artist": "黒髪乱れし修羅となりて",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "1:50",
+    "guide": "Dance guide for 黒髪乱れし修羅となりて (STARDOM Remix)",
+    "original_name": "黒髪乱れし修羅となりて (STARDOM Remix)"
+  },
+  {
+    "name": "轟け恋のビーンボール STARDOM Remix",
+    "artist": "轟け！恋のビーンボール！！",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "1:50",
+    "guide": "Dance guide for 轟け！恋のビーンボール！！ (STARDOM Remix)",
+    "original_name": "轟け！恋のビーンボール！！ (STARDOM Remix)"
+  },
+  {
+    "name": "明鏡止水 STARDOM Remix",
+    "artist": "明鏡止水",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:59",
+    "guide": "Dance guide for 明鏡止水 (STARDOM Remix)",
+    "original_name": "明鏡止水 (STARDOM Remix)"
+  },
+  {
+    "name": "隅田川夏恋歌 STARDOM Remix",
+    "artist": "隅田川夏恋歌",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:59",
+    "guide": "Dance guide for 隅田川夏恋歌 (STARDOM Remix)",
+    "original_name": "隅田川夏恋歌 (STARDOM Remix)"
+  },
+  {
+    "name": "量子の海のリントヴルム STARDOM Remix",
+    "artist": "かめりあ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:52",
+    "guide": "Dance guide for 量子の海のリントヴルム (STARDOM Remix)",
+    "original_name": "量子の海のリントヴルム (STARDOM Remix)"
+  },
+  {
+    "name": "Catch Our Fire STARDOM Remix",
+    "artist": "kors k",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:54",
+    "guide": "Dance guide for Catch Our Fire! (STARDOM Remix)",
+    "original_name": "Catch Our Fire! (STARDOM Remix)"
+  },
+  {
+    "name": "Love 2 Shuffle",
+    "artist": "Sota F. feat. Starbitz",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "2:03",
+    "guide": "Dance guide for Love 2 Shuffle",
+    "original_name": "Love 2 Shuffle"
+  },
+  {
+    "name": "Shiva",
+    "artist": "Relect",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:49",
+    "guide": "Dance guide for Shiva",
+    "original_name": "Shiva"
+  },
+  {
+    "name": "Electric Dance System Music",
+    "artist": "U1 overground",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:49",
+    "guide": "Dance guide for Electric Dance System Music",
+    "original_name": "Electric Dance System Music"
+  },
+  {
+    "name": "Drop The Bounce",
+    "artist": "Hommarju",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      75,
+      150
+    ],
+    "length": "1:58",
+    "guide": "Dance guide for Drop The Bounce",
+    "original_name": "Drop The Bounce"
+  },
+  {
+    "name": "Astrogazer",
+    "artist": "DJ TOTTO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 154,
+    "length": "1:51",
+    "guide": "Dance guide for Astrogazer",
+    "original_name": "Astrogazer"
+  },
+  {
+    "name": "This Beat Is.....",
+    "artist": "Shoichiro Hirata",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:56",
+    "guide": "Dance guide for This Beat Is.....",
+    "original_name": "This Beat Is....."
+  },
+  {
+    "name": "ALGORITHM",
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:47",
+    "guide": "Dance guide for ALGORITHM",
+    "original_name": "ALGORITHM"
+  },
+  {
+    "name": "EGOISM 110",
+    "artist": "U1 Ground-Speed",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:39",
+    "guide": "Dance guide for EGOISM 110",
+    "original_name": "EGOISM 110"
+  },
+  {
+    "name": "BLACK JACKAL",
+    "artist": "Akira Complex",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "2:03",
+    "guide": "Dance guide for BLACK JACKAL",
+    "original_name": "BLACK JACKAL"
+  },
+  {
+    "name": "Afterimage dautomne",
+    "artist": "猫叉 feat. 劇団",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 232,
+    "length": "2:02",
+    "guide": "Dance guide for Afterimage d'automne",
+    "original_name": "Afterimage d'automne"
+  },
+  {
+    "name": "Six String Proof DANCERUSH Style",
+    "artist": "Yvya feat. Mutsuhiko Izumi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:47",
+    "guide": "Dance guide for Six String Proof (DANCERUSH Style)",
+    "original_name": "Six String Proof (DANCERUSH Style)"
+  },
+  {
+    "name": "toy boxer DANCERUSH Style",
+    "artist": "S-C-U feat. SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 140,
+    "length": "1:40",
+    "guide": "Dance guide for toy boxer (DANCERUSH Style)",
+    "original_name": "toy boxer (DANCERUSH Style)"
+  },
+  {
+    "name": "Trill auf G DANCERUSH Style",
+    "artist": "dj TAKA",
+    "album": "いちかのBEMANI投票選抜戦2019 ORIGINAL SOUNDTRACK, despite that its original, long, and ノスタルジア versions are present.",
+    "bpm": 140,
+    "length": "1:46",
+    "guide": "Dance guide for Trill auf G (DANCERUSH Style)",
+    "original_name": "Trill auf G (DANCERUSH Style)"
+  },
+  {
+    "name": "voltississimo DANCERUSH Style",
+    "artist": "PHQUASE",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:28",
+    "guide": "Dance guide for voltississimo (DANCERUSH Style)",
+    "original_name": "voltississimo (DANCERUSH Style)"
+  },
+  {
+    "name": "おーまいらぶりーすうぃーてぃだーりん DANCERUSH Style",
+    "artist": "PON feat. NU-KO",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:56",
+    "guide": "Dance guide for おーまい！らぶりー！すうぃーてぃ！だーりん！ (DANCERUSH Style)",
+    "original_name": "おーまい！らぶりー！すうぃーてぃ！だーりん！ (DANCERUSH Style)"
+  },
+  {
+    "name": "最小三倍完全数 DANCERUSH Style",
+    "artist": "DJ TECHNORCH",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 125,
+    "length": "1:25",
+    "guide": "Dance guide for 最小三倍完全数 (DANCERUSH Style)",
+    "original_name": "最小三倍完全数 (DANCERUSH Style)"
+  },
+  {
+    "name": "ミッドナイトWAR",
+    "artist": "いちか",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 156,
+    "length": "1:55",
+    "guide": "Dance guide for ミッドナイト☆WAR",
+    "original_name": "ミッドナイト☆WAR"
+  },
+  {
+    "name": "Starlight Kiss",
+    "artist": "BlackY",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 127,
+    "length": "1:45",
+    "guide": "Dance guide for Starlight Kiss",
+    "original_name": "Starlight Kiss"
+  },
+  {
+    "name": "True Blue STARDOM Remix",
+    "artist": "かめりあ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 142,
+    "length": "2:02",
+    "guide": "Dance guide for True Blue (STARDOM Remix)",
+    "original_name": "True Blue (STARDOM Remix)"
+  },
+  {
+    "name": "glacia STARDOM Remix",
+    "artist": "lapix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:40",
+    "guide": "Dance guide for glacia (STARDOM Remix)",
+    "original_name": "glacia (STARDOM Remix)"
+  },
+  {
+    "name": "ランカーキラーガール STARDOM Remix",
+    "artist": "中島由貴 feat. いちか",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 135,
+    "length": "1:57",
+    "guide": "Dance guide for ランカーキラーガール (STARDOM Remix)",
+    "original_name": "ランカーキラーガール (STARDOM Remix)"
+  },
+  {
+    "name": "new heaven",
+    "artist": "kiraku",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 133,
+    "length": "1:47",
+    "guide": "Dance guide for new heaven",
+    "original_name": "new heaven"
+  },
+  {
+    "name": "ATRAX",
+    "artist": "HuΣeR",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:59",
+    "guide": "Dance guide for ATRAX",
+    "original_name": "ATRAX"
+  },
+  {
+    "name": "Butterfly Twist",
+    "artist": "Yooh",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "2:06",
+    "guide": "Dance guide for Butterfly Twist",
+    "original_name": "Butterfly Twist"
+  },
+  {
+    "name": "Our Soul",
+    "artist": "CaZ",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:50",
+    "guide": "Dance guide for Our Soul",
+    "original_name": "Our Soul"
+  },
+  {
+    "name": "ラブキラスプラッシュ",
+    "artist": "Sota F. feat. いちか",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 152,
+    "length": "2:03",
+    "guide": "Dance guide for ラブキラ☆スプラッシュ",
+    "original_name": "ラブキラ☆スプラッシュ"
+  },
+  {
+    "name": "GOLDEN CROSS",
+    "artist": "dj REMO-CON feat. dj TAKA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "2:01",
+    "guide": "Dance guide for GOLDEN CROSS",
+    "original_name": "GOLDEN CROSS"
+  },
+  {
+    "name": "サヨナラヘヴン",
+    "artist": "猫叉Master",
+    "album": "BEMANI 8bit collection.",
+    "bpm": 111,
+    "length": "2:05",
+    "guide": "Dance guide for サヨナラ・ヘヴン",
+    "original_name": "サヨナラ・ヘヴン"
+  },
+  {
+    "name": "カゴノトリ",
+    "artist": "橙色特 feat. 別室",
+    "album": "versions.",
+    "bpm": 140,
+    "length": "1:56",
+    "guide": "Dance guide for カゴノトリ",
+    "original_name": "カゴノトリ"
+  },
+  {
+    "name": "ERROR CODE",
+    "artist": "C-Show",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "2:09",
+    "guide": "Dance guide for ERROR CODE",
+    "original_name": "ERROR CODE"
+  },
+  {
+    "name": "Voyager",
+    "artist": "lapix",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 145,
+    "length": "2:02",
+    "guide": "Dance guide for Voyager",
+    "original_name": "Voyager"
+  },
+  {
+    "name": "RAIN",
+    "artist": "dj TAKA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 159,
+    "length": "1:51",
+    "guide": "Dance guide for RAIN",
+    "original_name": "RAIN"
+  },
+  {
+    "name": "Sparkle Smilin",
+    "artist": "Qrispy Joybox feat. いちか",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 180,
+    "length": "1:50",
+    "guide": "Dance guide for Sparkle Smilin'",
+    "original_name": "Sparkle Smilin'"
+  },
+  {
+    "name": "狂水一華",
+    "artist": "HuΣeR feat. SYUNN feat. いちか",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "1:59",
+    "guide": "Dance guide for 狂水一華",
+    "original_name": "狂水一華"
+  },
+  {
+    "name": "Jetcoaster Windy",
+    "artist": "dj TAKA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 268,
+    "length": "2:03",
+    "guide": "Dance guide for Jetcoaster Windy",
+    "original_name": "Jetcoaster Windy"
+  },
+  {
+    "name": "X-ray binary",
+    "artist": "Trance Liquid",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "2:00",
+    "guide": "Dance guide for X-ray binary",
+    "original_name": "X-ray binary"
+  },
+  {
+    "name": "CONNECT-",
+    "artist": "Sota Fujimori",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:55",
+    "guide": "Dance guide for CONNECT-",
+    "original_name": "CONNECT-"
+  },
+  {
+    "name": "世界の果てに約束の凱歌を STARDOM Remix",
+    "artist": "JY feat. UNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "1:47",
+    "guide": "Dance guide for 世界の果てに約束の凱歌を (STARDOM Remix)",
+    "original_name": "世界の果てに約束の凱歌を (STARDOM Remix)"
+  },
+  {
+    "name": "Vamos A Bailar",
+    "artist": "Yooh",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "2:09",
+    "guide": "Dance guide for Vamos A Bailar",
+    "original_name": "Vamos A Bailar"
+  },
+  {
+    "name": "ここからよろしく大作戦143",
+    "artist": "あさき隊",
+    "album": "booklets do not list guitar work for ここからよろしく大作戦143.",
+    "bpm": 184,
+    "length": "2:10",
+    "guide": "Dance guide for ここからよろしく大作戦143",
+    "original_name": "ここからよろしく大作戦143"
+  },
+  {
+    "name": "十六夜セツナ",
+    "artist": "Xceon feat. Mayumi Morinaga",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "2:02",
+    "guide": "Dance guide for 十六夜セツナ",
+    "original_name": "十六夜セツナ"
+  },
+  {
+    "name": "FUTURE is Dead",
+    "artist": "C-Show",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 110,
+    "length": "1:57",
+    "guide": "Dance guide for FUTURE is Dead",
+    "original_name": "FUTURE is Dead"
+  },
+  {
+    "name": "MATSURI",
+    "artist": "かなたん feat. アマギセーラ feat. ぁゅ feat. 藤森崇多",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 160,
+    "length": "1:53",
+    "guide": "Dance guide for MA・TSU・RI",
+    "original_name": "MA・TSU・RI"
+  },
+  {
+    "name": "チュッチュマチュピチュ",
+    "artist": "ななひら feat. Nana Takahashi feat. 猫体質 feat. 劇ダンサーレコード",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 130,
+    "length": "1:55",
+    "guide": "Dance guide for チュッチュ♪マチュピチュ",
+    "original_name": "チュッチュ♪マチュピチュ"
+  },
+  {
+    "name": "LIKE A VAMPIRE",
+    "artist": "koyomi feat. 星野奏子 feat. TAKA",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "2:07",
+    "guide": "Dance guide for LIKE A VAMPIRE",
+    "original_name": "LIKE A VAMPIRE"
+  },
+  {
+    "name": "スーパー戦湯ババンバーン",
+    "artist": "すわひでお feat. 秋成 feat. かぼちゃ feat. 藍月なくる feat. NU-KO feat. 八戸亀生羅",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      94,
+      187
+    ],
+    "length": "2:07",
+    "guide": "Dance guide for スーパー戦湯ババンバーン",
+    "original_name": "スーパー戦湯ババンバーン"
+  },
+  {
+    "name": "Globe Glitter",
+    "artist": "Sana feat. ATSUMI UEDA feat. PON",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 190,
+    "length": "1:59",
+    "guide": "Dance guide for Globe Glitter",
+    "original_name": "Globe Glitter"
+  },
+  {
+    "name": "ユメブキ",
+    "artist": "紫崎 雪 feat. Risa Yuzuki feat. 709sec. feat. PHQUASE feat. SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 100,
+    "length": "1:58",
+    "guide": "Dance guide for ユメブキ",
+    "original_name": "ユメブキ"
+  },
+  {
+    "name": "Triple Cross",
+    "artist": "dj TAKA feat. DJ YOSHITAKA feat. SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 196,
+    "length": "2:00",
+    "guide": "Dance guide for Triple Cross",
+    "original_name": "Triple Cross"
+  },
+  {
+    "name": "Aftermath",
+    "artist": "猫叉Master feat. あさき feat. Yvya",
+    "album": "booklet.",
+    "bpm": 100,
+    "length": "2:13",
+    "guide": "Dance guide for Aftermath",
+    "original_name": "Aftermath"
+  },
+  {
+    "name": "Sunshine let me find a way",
+    "artist": "コバヤシユウヤ feat. You-Re:",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 132,
+    "length": "2:04",
+    "guide": "Dance guide for Sunshine let me find a way",
+    "original_name": "Sunshine let me find a way"
+  },
+  {
+    "name": "Easy Peasy",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 138,
+    "length": "1:42",
+    "guide": "Dance guide for Easy Peasy",
+    "original_name": "Easy Peasy"
+  },
+  {
+    "name": "Go Down",
+    "artist": "KO3",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:53",
+    "guide": "Dance guide for Go Down",
+    "original_name": "Go Down"
+  },
+  {
+    "name": "Funky Street",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 100,
+    "length": "1:56",
+    "guide": "Dance guide for Funky Street",
+    "original_name": "Funky Street"
+  },
+  {
+    "name": "FIRE VOLCANO",
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 155,
+    "length": "2:02",
+    "guide": "Dance guide for FIRE VOLCANO",
+    "original_name": "FIRE VOLCANO"
+  },
+  {
+    "name": "AcidTribal  Dance",
+    "artist": "Relect",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 126,
+    "length": "1:47",
+    "guide": "Dance guide for Acid,Tribal & Dance",
+    "original_name": "Acid,Tribal & Dance"
+  },
+  {
+    "name": "New Decade",
+    "artist": "Sota F.",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      100,
+      400
+    ],
+    "length": "1:29",
+    "guide": "Dance guide for New Decade",
+    "original_name": "New Decade"
+  },
+  {
+    "name": "Necroxis Girl",
+    "artist": "HuΣeR",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:59",
+    "guide": "Dance guide for Necroxis Girl",
+    "original_name": "Necroxis Girl"
+  },
+  {
+    "name": "新蛇姫",
+    "artist": "U1-ASAMi",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      115,
+      230
+    ],
+    "length": "2:02",
+    "guide": "Dance guide for 新蛇姫",
+    "original_name": "新蛇姫"
+  },
+  {
+    "name": "Dance With The Dead",
+    "artist": "SYUNN",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 150,
+    "length": "1:51",
+    "guide": "Dance guide for Dance With The Dead",
+    "original_name": "Dance With The Dead"
+  },
+  {
+    "name": "VOLAQUAS",
+    "artist": "DJ TOTTO VS 兎々",
+    "album": "DANCERUSH STARDOM",
+    "bpm": [
+      106,
+      212
+    ],
+    "length": "2:08",
+    "guide": "Dance guide for VOLAQUAS",
+    "original_name": "VOLAQUAS"
+  },
+  {
+    "name": "パーフェクトイーター STARDOM Remix",
+    "artist": "KE!JU",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "1:43",
+    "guide": "Dance guide for パーフェクトイーター (STARDOM Remix)",
+    "original_name": "パーフェクトイーター (STARDOM Remix)"
+  },
+  {
+    "name": "Afterhours",
+    "artist": "MK",
+    "album": "DANCERUSH STARDOM",
+    "bpm": 128,
+    "length": "2:05",
+    "guide": "Dance guide for Afterhours",
+    "original_name": "Afterhours"
+  }
+]
