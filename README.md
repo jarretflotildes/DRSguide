@@ -1,10 +1,10 @@
 This is a website made with Next.js, React, and MongoDB.
-<img width="755" height="380" alt="2" src="https://github.com/user-attachments/assets/7a7b15c8-4b74-4b1b-964c-3d5780e1c00c" />
+<img width="755" height="380" alt="2" src="https://github.com/user-attachments/assets/7a7b15c8-4b74-4b1b-964c-3d5780e1c00c" />  
+*Landing page*  
 
 The backend is controlled with https://github.com/jarretflotildes/MongoDb_java which handles the Mongo database.
 
-
-<img width="702" height="372" alt="3" src="https://github.com/user-attachments/assets/1f07c049-65a6-49b5-85f0-a3977648deef" />
+<img width="702" height="372" alt="3" src="https://github.com/user-attachments/assets/1f07c049-65a6-49b5-85f0-a3977648deef" />  
 
 Songs have the following data:
     name - Display name of the song, matches the image name  
@@ -15,4 +15,5 @@ Songs have the following data:
     length  
     description  
     guide  
-<img width="742" height="350" alt="1" src="https://github.com/user-attachments/assets/cb528ca4-d057-4a87-bb8e-8a7f7c9fc128" />
+<img width="742" height="350" alt="1" src="https://github.com/user-attachments/assets/cb528ca4-d057-4a87-bb8e-8a7f7c9fc128" />  
+*Song example*  
