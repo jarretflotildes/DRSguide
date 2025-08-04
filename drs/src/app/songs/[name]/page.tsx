@@ -5,6 +5,7 @@ import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import Navbar from '@/app/(components)/Navbar'
 import Footer from '@/app/(components)/Footer'
+import Image from 'next/image'
 
 type Song = {
   _id: string
@@ -90,12 +91,11 @@ export default function SongPage() {
     <div>
       <Navbar/>
       <div className="min-h-screen bg-gray-900 text-white p-8">
-
         {/* Song Content */}
         <div className="grid md:grid-cols-2 gap-8">
           {/* Song Image */}
           <div className="flex justify-center">
-            <img 
+            <Image
               src={`/jackets/${encodeURIComponent(song.name)}.png`}
               alt={`${song.name} jacket`}
               className="max-w-full h-auto border border-gray-700 rounded-lg"
@@ -141,12 +141,12 @@ export default function SongPage() {
               </div>
             )}
 
-            {/* Relevant Links*/}
+            {/* Relevant Links
             {(song.links && <div className="mb-6 text-center">
                 {song.links || 'No links'}
                </div> 
               )
-            }
+            }*/}
 
             <div className="mt-8">
               <button 

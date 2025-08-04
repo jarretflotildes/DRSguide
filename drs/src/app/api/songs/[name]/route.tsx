@@ -3,17 +3,17 @@ import { getDatabase } from '@/app/lib/mongodb'
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { name: string } }
+  { params }: { params: Promise<{name: string }>}
 ) {
 
-  params = await params
-  const songName = decodeURIComponent(params.name)
+  const resolvedParams = await params
+  const songName = decodeURIComponent(resolvedParams.name)
   
   try {
     const db = await getDatabase('DRS')
     const collection = db.collection('songs')
    
-    let song = await collection.findOne({ 
+    const song = await collection.findOne({ 
       name: songName
     })
    
