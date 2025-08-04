@@ -1,4 +1,6 @@
-This is a website made with Next.js, React, and MongoDB.
+This is a website made with Next.js, React, and MongoDB. 
+Available here: https://6890627e6e3094000871aea9--incandescent-sprite-239e54.netlify.app/
+
 <img width="755" height="380" alt="2" src="https://github.com/user-attachments/assets/7a7b15c8-4b74-4b1b-964c-3d5780e1c00c" />  
 *Landing page*  
 
