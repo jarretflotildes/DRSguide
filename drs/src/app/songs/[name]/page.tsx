@@ -19,6 +19,8 @@ type Song = {
   guide?: string
 }
 
+
+
 export default function SongPage() {
   const params = useParams()
  
@@ -33,6 +35,8 @@ export default function SongPage() {
       fetchSong(decodeURIComponent(songName))
     }
   }, [songName])
+
+  
 
   const fetchSong = async (name: string) => {
     try {
@@ -97,6 +101,8 @@ export default function SongPage() {
           <div className="flex justify-center">
             <Image
               src={`/jackets/${encodeURIComponent(song.name)}.png`}
+              width={200}
+              height={200}
               alt={`${song.name} jacket`}
               className="max-w-full h-auto border border-gray-700 rounded-lg"
               onError={(e) => {
