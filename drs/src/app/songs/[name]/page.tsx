@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react'
 import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import Navbar from '@/app/(components)/Navbar'
+import Footer from '@/app/(components)/Footer'
 
 type Song = {
   _id: string
@@ -106,26 +107,46 @@ export default function SongPage() {
 
           {/* Description */}
           <div>
-            <h1 className="text-4xl font-bold mb-4">{song.name}</h1>
-            <div className="mb-6">
-              <p className="text-gray-300 leading-relaxed">
-                {song.description || 'No description available.'}
-              </p>
-            </div>
-                {song.artist}
-                {song.album}
-                {song.bpm}
-                {song.length}
+            <div className="text-center">
+              <h1 className="text-4xl font-bold mb-4">
+                  {song.name}
+                  </h1>
 
+                  <div>
+                    Artist: {song.artist}
+                  </div>
+
+                  <div>
+                    Album: {song.album}
+                  </div>
+
+                  <div>
+                    BPM:{song.bpm}
+                  </div>
+                  <div>
+                    Length: {song.length}
+                  </div>
+                </div>
+              </div>
+            </div>
+      
+            <div>
             {/* Guide */}
-            {song.guide && (
-              <div className="mb-6">
-                <h2 className="text-xl font-semibold mb-2 text-blue-400">Guide</h2>
+            {(
+              <div className="mb-6 text-center">
+                <h2 className="text-xl font-semibold mb-2 text-orange-400">Tips/Tricks</h2>
                 <div className="text-gray-300 leading-relaxed whitespace-pre-wrap">
                   {song.guide || 'No guide available'}
                 </div>
               </div>
             )}
+
+            {/* Relevant Links*/}
+            {(song.links && <div className="mb-6 text-center">
+                {song.links || 'No links'}
+               </div> 
+              )
+            }
 
             <div className="mt-8">
               <button 
@@ -135,20 +156,10 @@ export default function SongPage() {
                 Go Back
               </button>
 
-            </div>
         </div>
       </div>
-                    {/* Navigation */}
-        <div className="max-w-4xl mx-auto align-bottom">
-          <Link 
-            href="/" 
-            className="text-blue-400 hover:text-blue-300 mb-6 inline-block"
-          >
-            Home
-          </Link>
-
-          </div>
       </div>
+      <Footer/>
     </div>
   )
 }

@@ -13,6 +13,11 @@ type song = {
 
 export default function SongList() {
 
+  const [showNames, setShowNames] = useState<boolean>(false);
+  const toggleNames = () => {
+    setShowNames(prev => !prev);
+  };
+
   const [songs, setSongs] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
@@ -39,6 +44,7 @@ export default function SongList() {
     }
   }
 
+  
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-900 text-white p-8">
@@ -57,37 +63,55 @@ export default function SongList() {
 
   return (
     <div className="min-h-screen bg-gray-900 p-5">
-      <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8 text-white">
-           Songs ({songs.length})
-        </h1>
 
+      <div className="max-w-4xl mx-auto">
+        <div>
+            <h1 className="text-4xl font-bold text-center mb-8 text-white">
+              Songs
+            </h1>
+
+           <button
+              onClick={toggleNames}
+              className={`mb-6 px-6 py-2 rounded-lg font-semibold transition-colors duration-200 ${
+              showNames 
+                ? 'bg-orange-500 hover:bg-orange-600 text-white' 
+                : 'bg-blue-500 hover:bg-blue-600 text-white'
+              }`}
+            >
+            {showNames ? 'Hide Names' : 'Show Names'}
+            </button>
+        </div>
+     
         {songs.length === 0 ? (
           <div className="text-center text-gray-400">
             No songs found.
           </div>
         ) : (
-          <div className="grid gap-0 md:grid-cols-1 lg:grid-cols-6">
-            {songs.map(song => (
-              <Link 
-                key={song._id} href={`/songs/${song.name}`}
-                className="border border-gray-700 hover:border-blue-600 transition-colors"
-              >
+          <div>
+            <div className="text-white">
+              Click one of the following to get more information about the song!
+            </div>
 
-             <img 
-                src={ `/jackets/${encodeURIComponent(song.name)}.png`}
-                alt="Error 404"
-                className="border-black w-full object-fill"
-              />
+              <div className="grid gap-0 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-6">
+              {songs.map(song => (
+                <Link 
+                  key={song._id} href={`/songs/${song.name}`}
+                  className="border border-gray-700 hover:border-blue-600 transition-colors"
+                >
 
-                <h2 className="text-xl text-white mb-3">
-                  {song.original_name}
-                </h2>  
-                {/**         <h2 className="text-xl text-white mb-3">
-                  {song.original_name}
-                </h2>   */}
+              <img 
+                  src={ `/jackets/${encodeURIComponent(song.name)}.png`}
+                  alt="Error 404"
+                  className="border-black w-full object-fill"
+                />
+                {showNames && (<h2 className="text text-white text-center">
+                    {song.original_name}
+                  </h2> 
+                  )
+                }
                 </Link>
-            ))}
+              ))}
+            </div>
           </div>
         )}
         {/**        
