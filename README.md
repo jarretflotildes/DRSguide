@@ -17,5 +17,6 @@ Songs have the following data:
     length  
     description  
     guide  
+Song info is contained in dancerush_songs.json
 <img width="742" height="350" alt="1" src="https://github.com/user-attachments/assets/cb528ca4-d057-4a87-bb8e-8a7f7c9fc128" />  
 *Song example*  
