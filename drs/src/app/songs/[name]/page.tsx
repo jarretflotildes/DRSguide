@@ -3,8 +3,6 @@
 import { useState, useEffect } from 'react'
 import { useParams } from 'next/navigation'
 import Link from 'next/link'
-import Navbar from '@/app/(components)/Navbar'
-import Footer from '@/app/(components)/Footer'
 import Image from 'next/image'
 
 type Song = {
@@ -61,7 +59,6 @@ export default function SongPage() {
   if (loading) {
     return (
       <div>
-          <Navbar/>
           <div className="min-h-screen bg-gray-900 text-white p-8">
             <div className="text-center">Loading song...</div>
           </div>
@@ -73,7 +70,6 @@ export default function SongPage() {
     return (
       <div>
         <div className="min-h-screen bg-gray-900 text-white p-8">
-          <Navbar/>
             <div className="max-w-4xl mx-auto">
               <Link 
                 href="/" 
@@ -93,7 +89,6 @@ export default function SongPage() {
 
   return (
     <div>
-      <Navbar/>
       <div className="min-h-screen bg-gray-900 text-white p-8">
         {/* Song Content */}
         <div className="grid md:grid-cols-2 gap-8">
@@ -165,7 +160,6 @@ export default function SongPage() {
         </div>
       </div>
       </div>
-      <Footer/>
     </div>
   )
 }

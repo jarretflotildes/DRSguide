@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='flex bg-yellow-500 py-4 px-4 items-center w-full'>
             <Link href="https://github.com/jarretflotildes/DRSguide" 
                 className="text-white">
-                    v08032025
+                    v08092025
             </Link>
        </div>
     )
